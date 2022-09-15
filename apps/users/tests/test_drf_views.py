@@ -1,7 +1,7 @@
 from django.test import RequestFactory
 
-from ems.users.api.views import UserViewSet
-from ems.users.models import User
+from apps.users.api.views import UserViewSet
+from apps.users.models import User
 
 
 class TestUserViewSet:

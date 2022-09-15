@@ -36,6 +36,8 @@ services:
       - ems_local_postgres_data_backups:/backups:z
     env_file:
       - ./.envs/.local/.postgres
+    ports:
+      - "5432:5432"
 
   docs:
     image: ems_local_docs
@@ -49,7 +51,7 @@ services:
     volumes:
       - ./docs:/docs:z
       - ./config:/app/config:z
-      - ./ems:/app/ems:z
+      - ./apps:/app/apps:z
     ports:
       - "9000:9000"
     command: /start-docs
