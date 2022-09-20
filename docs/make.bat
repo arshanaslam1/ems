@@ -1,4 +1,4 @@
-@ECHO OFF
+make apidocs@ECHO OFF
 
 pushd %~dp0
 
@@ -10,7 +10,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=_source
 set BUILDDIR=_build
-set APP=..\ems
+set APP=..\apps
 
 if "%1" == "" goto help
 

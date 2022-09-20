@@ -17,9 +17,10 @@
       </option>
     </PathMappingSettings>
     <option name="_new_keywords" value="&quot;&quot;" />
+    <option name="_new_parameters" value="&quot;&quot;" />
     <option name="_new_additionalArguments" value="&quot;&quot;" />
-    <option name="_new_target" value="&quot;./ems/users/&quot;" />
+    <option name="_new_target" value="&quot;$PROJECT_DIR$/apps/api/geographics&quot;" />
     <option name="_new_targetType" value="&quot;PATH&quot;" />
-    <method />
+    <method v="2" />
   </configuration>
 </component>

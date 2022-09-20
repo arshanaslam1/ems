@@ -1,0 +1,251 @@
+id,name,iso3,iso2,numeric_code,phone_code,capital,currency,currency_name,currency_symbol,tld,region,subregion,native,latitude,longitude,emoji,emojiU,utc
+1,Afghanistan,AFG,AF,4,93,Kabul,AFN,Afghan afghani,؋,.af,Asia,Southern Asia,افغانستان,33,65,🇦🇫,U+1F1E6 U+1F1EB,+04:30
+2,Aland Islands,ALA,AX,248,+358-18,Mariehamn,EUR,Euro,€,.ax,Europe,Northern Europe,Åland,60.116667,19.9,🇦🇽,U+1F1E6 U+1F1FD,+02:00
+3,Albania,ALB,AL,8,355,Tirana,ALL,Albanian lek,Lek,.al,Europe,Southern Europe,Shqipëria,41,20,🇦🇱,U+1F1E6 U+1F1F1,+01:00
+4,Algeria,DZA,DZ,12,213,Algiers,DZD,Algerian dinar,دج,.dz,Africa,Northern Africa,الجزائر,28,3,🇩🇿,U+1F1E9 U+1F1FF,+01:00
+5,American Samoa,ASM,AS,16,+1-684,Pago Pago,USD,US Dollar,$,.as,Oceania,Polynesia,American Samoa,-14.33333333,-170,🇦🇸,U+1F1E6 U+1F1F8,-11:00
+6,Andorra,AND,AD,20,376,Andorra la Vella,EUR,Euro,€,.ad,Europe,Southern Europe,Andorra,42.5,1.5,🇦🇩,U+1F1E6 U+1F1E9,+01:00
+7,Angola,AGO,AO,24,244,Luanda,AOA,Angolan kwanza,Kz,.ao,Africa,Middle Africa,Angola,-12.5,18.5,🇦🇴,U+1F1E6 U+1F1F4,+01:00
+8,Anguilla,AIA,AI,660,+1-264,The Valley,XCD,East Caribbean dollar,$,.ai,Americas,Caribbean,Anguilla,18.25,-63.16666666,🇦🇮,U+1F1E6 U+1F1EE,-04:00
+9,Antarctica,ATA,AQ,10,672,,AAD,Antarctican dollar,$,.aq,Polar,,Antarctica,-74.65,4.48,🇦🇶,U+1F1E6 U+1F1F6,+11:00
+10,Antigua And Barbuda,ATG,AG,28,+1-268,St. John's,XCD,Eastern Caribbean dollar,$,.ag,Americas,Caribbean,Antigua and Barbuda,17.05,-61.8,🇦🇬,U+1F1E6 U+1F1EC,-04:00
+11,Argentina,ARG,AR,32,54,Buenos Aires,ARS,Argentine peso,$,.ar,Americas,South America,Argentina,-34,-64,🇦🇷,U+1F1E6 U+1F1F7,-03:00
+12,Armenia,ARM,AM,51,374,Yerevan,AMD,Armenian dram,֏,.am,Asia,Western Asia,Հայաստան,40,45,🇦🇲,U+1F1E6 U+1F1F2,+04:00
+13,Aruba,ABW,AW,533,297,Oranjestad,AWG,Aruban florin,ƒ,.aw,Americas,Caribbean,Aruba,12.5,-69.96666666,🇦🇼,U+1F1E6 U+1F1FC,-04:00
+14,Australia,AUS,AU,36,61,Canberra,AUD,Australian dollar,$,.au,Oceania,Australia and New Zealand,Australia,-27,133,🇦🇺,U+1F1E6 U+1F1FA,+11:00
+15,Austria,AUT,AT,40,43,Vienna,EUR,Euro,€,.at,Europe,Western Europe,Österreich,47.33333333,13.33333333,🇦🇹,U+1F1E6 U+1F1F9,+01:00
+16,Azerbaijan,AZE,AZ,31,994,Baku,AZN,Azerbaijani manat,m,.az,Asia,Western Asia,Azərbaycan,40.5,47.5,🇦🇿,U+1F1E6 U+1F1FF,+04:00
+18,Bahrain,BHR,BH,48,973,Manama,BHD,Bahraini dinar,.د.ب,.bh,Asia,Western Asia,‏البحرين,26,50.55,🇧🇭,U+1F1E7 U+1F1ED,+03:00
+19,Bangladesh,BGD,BD,50,880,Dhaka,BDT,Bangladeshi taka,৳,.bd,Asia,Southern Asia,Bangladesh,24,90,🇧🇩,U+1F1E7 U+1F1E9,+06:00
+20,Barbados,BRB,BB,52,+1-246,Bridgetown,BBD,Barbadian dollar,Bds$,.bb,Americas,Caribbean,Barbados,13.16666666,-59.53333333,🇧🇧,U+1F1E7 U+1F1E7,-04:00
+21,Belarus,BLR,BY,112,375,Minsk,BYN,Belarusian ruble,Br,.by,Europe,Eastern Europe,Белару́сь,53,28,🇧🇾,U+1F1E7 U+1F1FE,+03:00
+22,Belgium,BEL,BE,56,32,Brussels,EUR,Euro,€,.be,Europe,Western Europe,België,50.83333333,4,🇧🇪,U+1F1E7 U+1F1EA,+01:00
+23,Belize,BLZ,BZ,84,501,Belmopan,BZD,Belize dollar,$,.bz,Americas,Central America,Belize,17.25,-88.75,🇧🇿,U+1F1E7 U+1F1FF,-06:00
+24,Benin,BEN,BJ,204,229,Porto-Novo,XOF,West African CFA franc,CFA,.bj,Africa,Western Africa,Bénin,9.5,2.25,🇧🇯,U+1F1E7 U+1F1EF,+01:00
+25,Bermuda,BMU,BM,60,+1-441,Hamilton,BMD,Bermudian dollar,$,.bm,Americas,Northern America,Bermuda,32.33333333,-64.75,🇧🇲,U+1F1E7 U+1F1F2,-04:00
+26,Bhutan,BTN,BT,64,975,Thimphu,BTN,Bhutanese ngultrum,Nu.,.bt,Asia,Southern Asia,ʼbrug-yul,27.5,90.5,🇧🇹,U+1F1E7 U+1F1F9,+06:00
+27,Bolivia,BOL,BO,68,591,Sucre,BOB,Bolivian boliviano,Bs.,.bo,Americas,South America,Bolivia,-17,-65,🇧🇴,U+1F1E7 U+1F1F4,-04:00
+155,"Bonaire, Sint Eustatius and Saba",BES,BQ,535,599,Kralendijk,USD,United States dollar,$,.an,Americas,Caribbean,Caribisch Nederland,12.15,-68.266667,🇧🇶,U+1F1E7 U+1F1F6,-04:00
+28,Bosnia and Herzegovina,BIH,BA,70,387,Sarajevo,BAM,Bosnia and Herzegovina convertible mark,KM,.ba,Europe,Southern Europe,Bosna i Hercegovina,44,18,🇧🇦,U+1F1E7 U+1F1E6,+01:00
+29,Botswana,BWA,BW,72,267,Gaborone,BWP,Botswana pula,P,.bw,Africa,Southern Africa,Botswana,-22,24,🇧🇼,U+1F1E7 U+1F1FC,+02:00
+30,Bouvet Island,BVT,BV,74,55,,NOK,Norwegian Krone,kr,.bv,,,Bouvetøya,-54.43333333,3.4,🇧🇻,U+1F1E7 U+1F1FB,+01:00
+31,Brazil,BRA,BR,76,55,Brasilia,BRL,Brazilian real,R$,.br,Americas,South America,Brasil,-10,-55,🇧🇷,U+1F1E7 U+1F1F7,-03:00
+32,British Indian Ocean Territory,IOT,IO,86,246,Diego Garcia,USD,United States dollar,$,.io,Africa,Eastern Africa,British Indian Ocean Territory,-6,71.5,🇮🇴,U+1F1EE U+1F1F4,+06:00
+33,Brunei,BRN,BN,96,673,Bandar Seri Begawan,BND,Brunei dollar,B$,.bn,Asia,South-Eastern Asia,Negara Brunei Darussalam,4.5,114.66666666,🇧🇳,U+1F1E7 U+1F1F3,+08:00
+34,Bulgaria,BGR,BG,100,359,Sofia,BGN,Bulgarian lev,Лв.,.bg,Europe,Eastern Europe,България,43,25,🇧🇬,U+1F1E7 U+1F1EC,+02:00
+35,Burkina Faso,BFA,BF,854,226,Ouagadougou,XOF,West African CFA franc,CFA,.bf,Africa,Western Africa,Burkina Faso,13,-2,🇧🇫,U+1F1E7 U+1F1EB,
+36,Burundi,BDI,BI,108,257,Bujumbura,BIF,Burundian franc,FBu,.bi,Africa,Eastern Africa,Burundi,-3.5,30,🇧🇮,U+1F1E7 U+1F1EE,+02:00
+37,Cambodia,KHM,KH,116,855,Phnom Penh,KHR,Cambodian riel,KHR,.kh,Asia,South-Eastern Asia,Kâmpŭchéa,13,105,🇰🇭,U+1F1F0 U+1F1ED,+07:00
+38,Cameroon,CMR,CM,120,237,Yaounde,XAF,Central African CFA franc,FCFA,.cm,Africa,Middle Africa,Cameroon,6,12,🇨🇲,U+1F1E8 U+1F1F2,+01:00
+39,Canada,CAN,CA,124,1,Ottawa,CAD,Canadian dollar,$,.ca,Americas,Northern America,Canada,60,-95,🇨🇦,U+1F1E8 U+1F1E6,-05:00
+40,Cape Verde,CPV,CV,132,238,Praia,CVE,Cape Verdean escudo,$,.cv,Africa,Western Africa,Cabo Verde,16,-24,🇨🇻,U+1F1E8 U+1F1FB,-01:00
+41,Cayman Islands,CYM,KY,136,+1-345,George Town,KYD,Cayman Islands dollar,$,.ky,Americas,Caribbean,Cayman Islands,19.5,-80.5,🇰🇾,U+1F1F0 U+1F1FE,-05:00
+42,Central African Republic,CAF,CF,140,236,Bangui,XAF,Central African CFA franc,FCFA,.cf,Africa,Middle Africa,Ködörösêse tî Bêafrîka,7,21,🇨🇫,U+1F1E8 U+1F1EB,+01:00
+43,Chad,TCD,TD,148,235,N'Djamena,XAF,Central African CFA franc,FCFA,.td,Africa,Middle Africa,Tchad,15,19,🇹🇩,U+1F1F9 U+1F1E9,+01:00
+44,Chile,CHL,CL,152,56,Santiago,CLP,Chilean peso,$,.cl,Americas,South America,Chile,-30,-71,🇨🇱,U+1F1E8 U+1F1F1,-03:00
+45,China,CHN,CN,156,86,Beijing,CNY,Chinese yuan,¥,.cn,Asia,Eastern Asia,中国,35,105,🇨🇳,U+1F1E8 U+1F1F3,+08:00
+46,Christmas Island,CXR,CX,162,61,Flying Fish Cove,AUD,Australian dollar,$,.cx,Oceania,Australia and New Zealand,Christmas Island,-10.5,105.66666666,🇨🇽,U+1F1E8 U+1F1FD,+07:00
+47,Cocos (Keeling) Islands,CCK,CC,166,61,West Island,AUD,Australian dollar,$,.cc,Oceania,Australia and New Zealand,Cocos (Keeling) Islands,-12.5,96.83333333,🇨🇨,U+1F1E8 U+1F1E8,+06:30
+48,Colombia,COL,CO,170,57,Bogotá,COP,Colombian peso,$,.co,Americas,South America,Colombia,4,-72,🇨🇴,U+1F1E8 U+1F1F4,-05:00
+49,Comoros,COM,KM,174,269,Moroni,KMF,Comorian franc,CF,.km,Africa,Eastern Africa,Komori,-12.16666666,44.25,🇰🇲,U+1F1F0 U+1F1F2,+03:00
+50,Congo,COG,CG,178,242,Brazzaville,XAF,Central African CFA franc,FC,.cg,Africa,Middle Africa,République du Congo,-1,15,🇨🇬,U+1F1E8 U+1F1EC,+01:00
+52,Cook Islands,COK,CK,184,682,Avarua,NZD,Cook Islands dollar,$,.ck,Oceania,Polynesia,Cook Islands,-21.23333333,-159.76666666,🇨🇰,U+1F1E8 U+1F1F0,-10:00
+53,Costa Rica,CRI,CR,188,506,San Jose,CRC,Costa Rican colón,₡,.cr,Americas,Central America,Costa Rica,10,-84,🇨🇷,U+1F1E8 U+1F1F7,-06:00
+54,Cote D'Ivoire (Ivory Coast),CIV,CI,384,225,Yamoussoukro,XOF,West African CFA franc,CFA,.ci,Africa,Western Africa,,8,-5,🇨🇮,U+1F1E8 U+1F1EE,
+55,Croatia,HRV,HR,191,385,Zagreb,HRK,Croatian kuna,kn,.hr,Europe,Southern Europe,Hrvatska,45.16666666,15.5,🇭🇷,U+1F1ED U+1F1F7,+01:00
+56,Cuba,CUB,CU,192,53,Havana,CUP,Cuban peso,$,.cu,Americas,Caribbean,Cuba,21.5,-80,🇨🇺,U+1F1E8 U+1F1FA,-05:00
+249,Curaçao,CUW,CW,531,599,Willemstad,ANG,Netherlands Antillean guilder,ƒ,.cw,Americas,Caribbean,Curaçao,12.116667,-68.933333,🇨🇼,U+1F1E8 U+1F1FC,-04:00
+57,Cyprus,CYP,CY,196,357,Nicosia,EUR,Euro,€,.cy,Europe,Southern Europe,Κύπρος,35,33,🇨🇾,U+1F1E8 U+1F1FE,+02:00
+58,Czech Republic,CZE,CZ,203,420,Prague,CZK,Czech koruna,Kč,.cz,Europe,Eastern Europe,Česká republika,49.75,15.5,🇨🇿,U+1F1E8 U+1F1FF,+01:00
+51,Democratic Republic of the Congo,COD,CD,180,243,Kinshasa,CDF,Congolese Franc,FC,.cd,Africa,Middle Africa,République démocratique du Congo,0,25,🇨🇩,U+1F1E8 U+1F1E9,+01:00
+59,Denmark,DNK,DK,208,45,Copenhagen,DKK,Danish krone,Kr.,.dk,Europe,Northern Europe,Danmark,56,10,🇩🇰,U+1F1E9 U+1F1F0,+01:00
+60,Djibouti,DJI,DJ,262,253,Djibouti,DJF,Djiboutian franc,Fdj,.dj,Africa,Eastern Africa,Djibouti,11.5,43,🇩🇯,U+1F1E9 U+1F1EF,+03:00
+61,Dominica,DMA,DM,212,+1-767,Roseau,XCD,Eastern Caribbean dollar,$,.dm,Americas,Caribbean,Dominica,15.41666666,-61.33333333,🇩🇲,U+1F1E9 U+1F1F2,-04:00
+62,Dominican Republic,DOM,DO,214,+1-809 and 1-829,Santo Domingo,DOP,Dominican peso,$,.do,Americas,Caribbean,República Dominicana,19,-70.66666666,🇩🇴,U+1F1E9 U+1F1F4,-04:00
+63,East Timor,TLS,TL,626,670,Dili,USD,United States dollar,$,.tl,Asia,South-Eastern Asia,Timor-Leste,-8.83333333,125.91666666,🇹🇱,U+1F1F9 U+1F1F1,+09:00
+64,Ecuador,ECU,EC,218,593,Quito,USD,United States dollar,$,.ec,Americas,South America,Ecuador,-2,-77.5,🇪🇨,U+1F1EA U+1F1E8,-05:00
+65,Egypt,EGY,EG,818,20,Cairo,EGP,Egyptian pound,ج.م,.eg,Africa,Northern Africa,مصر‎,27,30,🇪🇬,U+1F1EA U+1F1EC,+02:00
+66,El Salvador,SLV,SV,222,503,San Salvador,USD,United States dollar,$,.sv,Americas,Central America,El Salvador,13.83333333,-88.91666666,🇸🇻,U+1F1F8 U+1F1FB,-06:00
+67,Equatorial Guinea,GNQ,GQ,226,240,Malabo,XAF,Central African CFA franc,FCFA,.gq,Africa,Middle Africa,Guinea Ecuatorial,2,10,🇬🇶,U+1F1EC U+1F1F6,+01:00
+68,Eritrea,ERI,ER,232,291,Asmara,ERN,Eritrean nakfa,Nfk,.er,Africa,Eastern Africa,ኤርትራ,15,39,🇪🇷,U+1F1EA U+1F1F7,+03:00
+69,Estonia,EST,EE,233,372,Tallinn,EUR,Euro,€,.ee,Europe,Northern Europe,Eesti,59,26,🇪🇪,U+1F1EA U+1F1EA,+02:00
+70,Ethiopia,ETH,ET,231,251,Addis Ababa,ETB,Ethiopian birr,Nkf,.et,Africa,Eastern Africa,ኢትዮጵያ,8,38,🇪🇹,U+1F1EA U+1F1F9,+03:00
+71,Falkland Islands,FLK,FK,238,500,Stanley,FKP,Falkland Islands pound,£,.fk,Americas,South America,Falkland Islands,-51.75,-59,🇫🇰,U+1F1EB U+1F1F0,-03:00
+72,Faroe Islands,FRO,FO,234,298,Torshavn,DKK,Danish krone,Kr.,.fo,Europe,Northern Europe,Føroyar,62,-7,🇫🇴,U+1F1EB U+1F1F4,
+73,Fiji Islands,FJI,FJ,242,679,Suva,FJD,Fijian dollar,FJ$,.fj,Oceania,Melanesia,Fiji,-18,175,🇫🇯,U+1F1EB U+1F1EF,+12:00
+74,Finland,FIN,FI,246,358,Helsinki,EUR,Euro,€,.fi,Europe,Northern Europe,Suomi,64,26,🇫🇮,U+1F1EB U+1F1EE,+02:00
+75,France,FRA,FR,250,33,Paris,EUR,Euro,€,.fr,Europe,Western Europe,France,46,2,🇫🇷,U+1F1EB U+1F1F7,+01:00
+76,French Guiana,GUF,GF,254,594,Cayenne,EUR,Euro,€,.gf,Americas,South America,Guyane française,4,-53,🇬🇫,U+1F1EC U+1F1EB,-03:00
+77,French Polynesia,PYF,PF,258,689,Papeete,XPF,CFP franc,₣,.pf,Oceania,Polynesia,Polynésie française,-15,-140,🇵🇫,U+1F1F5 U+1F1EB,-09:00
+78,French Southern Territories,ATF,TF,260,262,Port-aux-Francais,EUR,Euro,€,.tf,Africa,Southern Africa,Territoire des Terres australes et antarctiques fr,-49.25,69.167,🇹🇫,U+1F1F9 U+1F1EB,+05:00
+79,Gabon,GAB,GA,266,241,Libreville,XAF,Central African CFA franc,FCFA,.ga,Africa,Middle Africa,Gabon,-1,11.75,🇬🇦,U+1F1EC U+1F1E6,+01:00
+80,Gambia The,GMB,GM,270,220,Banjul,GMD,Gambian dalasi,D,.gm,Africa,Western Africa,Gambia,13.46666666,-16.56666666,🇬🇲,U+1F1EC U+1F1F2,
+81,Georgia,GEO,GE,268,995,Tbilisi,GEL,Georgian lari,ლ,.ge,Asia,Western Asia,საქართველო,42,43.5,🇬🇪,U+1F1EC U+1F1EA,+04:00
+82,Germany,DEU,DE,276,49,Berlin,EUR,Euro,€,.de,Europe,Western Europe,Deutschland,51,9,🇩🇪,U+1F1E9 U+1F1EA,+01:00
+83,Ghana,GHA,GH,288,233,Accra,GHS,Ghanaian cedi,GH₵,.gh,Africa,Western Africa,Ghana,8,-2,🇬🇭,U+1F1EC U+1F1ED,
+84,Gibraltar,GIB,GI,292,350,Gibraltar,GIP,Gibraltar pound,£,.gi,Europe,Southern Europe,Gibraltar,36.13333333,-5.35,🇬🇮,U+1F1EC U+1F1EE,+01:00
+85,Greece,GRC,GR,300,30,Athens,EUR,Euro,€,.gr,Europe,Southern Europe,Ελλάδα,39,22,🇬🇷,U+1F1EC U+1F1F7,+02:00
+86,Greenland,GRL,GL,304,299,Nuuk,DKK,Danish krone,Kr.,.gl,Americas,Northern America,Kalaallit Nunaat,72,-40,🇬🇱,U+1F1EC U+1F1F1,
+87,Grenada,GRD,GD,308,+1-473,St. George's,XCD,Eastern Caribbean dollar,$,.gd,Americas,Caribbean,Grenada,12.11666666,-61.66666666,🇬🇩,U+1F1EC U+1F1E9,-04:00
+88,Guadeloupe,GLP,GP,312,590,Basse-Terre,EUR,Euro,€,.gp,Americas,Caribbean,Guadeloupe,16.25,-61.583333,🇬🇵,U+1F1EC U+1F1F5,-04:00
+89,Guam,GUM,GU,316,+1-671,Hagatna,USD,US Dollar,$,.gu,Oceania,Micronesia,Guam,13.46666666,144.78333333,🇬🇺,U+1F1EC U+1F1FA,+10:00
+90,Guatemala,GTM,GT,320,502,Guatemala City,GTQ,Guatemalan quetzal,Q,.gt,Americas,Central America,Guatemala,15.5,-90.25,🇬🇹,U+1F1EC U+1F1F9,-06:00
+91,Guernsey and Alderney,GGY,GG,831,+44-1481,St Peter Port,GBP,British pound,£,.gg,Europe,Northern Europe,Guernsey,49.46666666,-2.58333333,🇬🇬,U+1F1EC U+1F1EC,
+92,Guinea,GIN,GN,324,224,Conakry,GNF,Guinean franc,FG,.gn,Africa,Western Africa,Guinée,11,-10,🇬🇳,U+1F1EC U+1F1F3,
+93,Guinea-Bissau,GNB,GW,624,245,Bissau,XOF,West African CFA franc,CFA,.gw,Africa,Western Africa,Guiné-Bissau,12,-15,🇬🇼,U+1F1EC U+1F1FC,
+94,Guyana,GUY,GY,328,592,Georgetown,GYD,Guyanese dollar,$,.gy,Americas,South America,Guyana,5,-59,🇬🇾,U+1F1EC U+1F1FE,-04:00
+95,Haiti,HTI,HT,332,509,Port-au-Prince,HTG,Haitian gourde,G,.ht,Americas,Caribbean,Haïti,19,-72.41666666,🇭🇹,U+1F1ED U+1F1F9,-05:00
+96,Heard Island and McDonald Islands,HMD,HM,334,672,,AUD,Australian dollar,$,.hm,,,Heard Island and McDonald Islands,-53.1,72.51666666,🇭🇲,U+1F1ED U+1F1F2,+05:00
+97,Honduras,HND,HN,340,504,Tegucigalpa,HNL,Honduran lempira,L,.hn,Americas,Central America,Honduras,15,-86.5,🇭🇳,U+1F1ED U+1F1F3,-06:00
+98,Hong Kong S.A.R.,HKG,HK,344,852,Hong Kong,HKD,Hong Kong dollar,$,.hk,Asia,Eastern Asia,香港,22.25,114.16666666,🇭🇰,U+1F1ED U+1F1F0,+08:00
+99,Hungary,HUN,HU,348,36,Budapest,HUF,Hungarian forint,Ft,.hu,Europe,Eastern Europe,Magyarország,47,20,🇭🇺,U+1F1ED U+1F1FA,+01:00
+100,Iceland,ISL,IS,352,354,Reykjavik,ISK,Icelandic króna,kr,.is,Europe,Northern Europe,Ísland,65,-18,🇮🇸,U+1F1EE U+1F1F8,
+101,India,IND,IN,356,91,New Delhi,INR,Indian rupee,₹,.in,Asia,Southern Asia,भारत,20,77,🇮🇳,U+1F1EE U+1F1F3,+05:30
+102,Indonesia,IDN,ID,360,62,Jakarta,IDR,Indonesian rupiah,Rp,.id,Asia,South-Eastern Asia,Indonesia,-5,120,🇮🇩,U+1F1EE U+1F1E9,+07:00
+103,Iran,IRN,IR,364,98,Tehran,IRR,Iranian rial,﷼,.ir,Asia,Southern Asia,ایران,32,53,🇮🇷,U+1F1EE U+1F1F7,+03:30
+104,Iraq,IRQ,IQ,368,964,Baghdad,IQD,Iraqi dinar,د.ع,.iq,Asia,Western Asia,العراق,33,44,🇮🇶,U+1F1EE U+1F1F6,+03:00
+105,Ireland,IRL,IE,372,353,Dublin,EUR,Euro,€,.ie,Europe,Northern Europe,Éire,53,-8,🇮🇪,U+1F1EE U+1F1EA,
+106,Israel,ISR,IL,376,972,Jerusalem,ILS,Israeli new shekel,₪,.il,Asia,Western Asia,יִשְׂרָאֵל,31.5,34.75,🇮🇱,U+1F1EE U+1F1F1,+02:00
+107,Italy,ITA,IT,380,39,Rome,EUR,Euro,€,.it,Europe,Southern Europe,Italia,42.83333333,12.83333333,🇮🇹,U+1F1EE U+1F1F9,+01:00
+108,Jamaica,JAM,JM,388,+1-876,Kingston,JMD,Jamaican dollar,J$,.jm,Americas,Caribbean,Jamaica,18.25,-77.5,🇯🇲,U+1F1EF U+1F1F2,-05:00
+109,Japan,JPN,JP,392,81,Tokyo,JPY,Japanese yen,¥,.jp,Asia,Eastern Asia,日本,36,138,🇯🇵,U+1F1EF U+1F1F5,+09:00
+110,Jersey,JEY,JE,832,+44-1534,Saint Helier,GBP,British pound,£,.je,Europe,Northern Europe,Jersey,49.25,-2.16666666,🇯🇪,U+1F1EF U+1F1EA,
+111,Jordan,JOR,JO,400,962,Amman,JOD,Jordanian dinar,ا.د,.jo,Asia,Western Asia,الأردن,31,36,🇯🇴,U+1F1EF U+1F1F4,+02:00
+112,Kazakhstan,KAZ,KZ,398,7,Astana,KZT,Kazakhstani tenge,лв,.kz,Asia,Central Asia,Қазақстан,48,68,🇰🇿,U+1F1F0 U+1F1FF,+06:00
+113,Kenya,KEN,KE,404,254,Nairobi,KES,Kenyan shilling,KSh,.ke,Africa,Eastern Africa,Kenya,1,38,🇰🇪,U+1F1F0 U+1F1EA,+03:00
+114,Kiribati,KIR,KI,296,686,Tarawa,AUD,Australian dollar,$,.ki,Oceania,Micronesia,Kiribati,1.41666666,173,🇰🇮,U+1F1F0 U+1F1EE,+13:00
+248,Kosovo,XKX,XK,926,383,Pristina,EUR,Euro,€,.xk,Europe,Eastern Europe,Republika e Kosovës,42.5612909,20.3403035,🇽🇰,U+1F1FD U+1F1F0,+01:00
+117,Kuwait,KWT,KW,414,965,Kuwait City,KWD,Kuwaiti dinar,ك.د,.kw,Asia,Western Asia,الكويت,29.5,45.75,🇰🇼,U+1F1F0 U+1F1FC,+03:00
+118,Kyrgyzstan,KGZ,KG,417,996,Bishkek,KGS,Kyrgyzstani som,лв,.kg,Asia,Central Asia,Кыргызстан,41,75,🇰🇬,U+1F1F0 U+1F1EC,+06:00
+119,Laos,LAO,LA,418,856,Vientiane,LAK,Lao kip,₭,.la,Asia,South-Eastern Asia,ສປປລາວ,18,105,🇱🇦,U+1F1F1 U+1F1E6,+07:00
+120,Latvia,LVA,LV,428,371,Riga,EUR,Euro,€,.lv,Europe,Northern Europe,Latvija,57,25,🇱🇻,U+1F1F1 U+1F1FB,+02:00
+121,Lebanon,LBN,LB,422,961,Beirut,LBP,Lebanese pound,£,.lb,Asia,Western Asia,لبنان,33.83333333,35.83333333,🇱🇧,U+1F1F1 U+1F1E7,+02:00
+122,Lesotho,LSO,LS,426,266,Maseru,LSL,Lesotho loti,L,.ls,Africa,Southern Africa,Lesotho,-29.5,28.5,🇱🇸,U+1F1F1 U+1F1F8,+02:00
+123,Liberia,LBR,LR,430,231,Monrovia,LRD,Liberian dollar,$,.lr,Africa,Western Africa,Liberia,6.5,-9.5,🇱🇷,U+1F1F1 U+1F1F7,
+124,Libya,LBY,LY,434,218,Tripolis,LYD,Libyan dinar,د.ل,.ly,Africa,Northern Africa,‏ليبيا,25,17,🇱🇾,U+1F1F1 U+1F1FE,+02:00
+125,Liechtenstein,LIE,LI,438,423,Vaduz,CHF,Swiss franc,CHf,.li,Europe,Western Europe,Liechtenstein,47.26666666,9.53333333,🇱🇮,U+1F1F1 U+1F1EE,+01:00
+126,Lithuania,LTU,LT,440,370,Vilnius,EUR,Euro,€,.lt,Europe,Northern Europe,Lietuva,56,24,🇱🇹,U+1F1F1 U+1F1F9,+02:00
+127,Luxembourg,LUX,LU,442,352,Luxembourg,EUR,Euro,€,.lu,Europe,Western Europe,Luxembourg,49.75,6.16666666,🇱🇺,U+1F1F1 U+1F1FA,+01:00
+128,Macau S.A.R.,MAC,MO,446,853,Macao,MOP,Macanese pataca,$,.mo,Asia,Eastern Asia,澳門,22.16666666,113.55,🇲🇴,U+1F1F2 U+1F1F4,+08:00
+129,Macedonia,MKD,MK,807,389,Skopje,MKD,Denar,ден,.mk,Europe,Southern Europe,Северна Македонија,41.83333333,22,🇲🇰,U+1F1F2 U+1F1F0,+01:00
+130,Madagascar,MDG,MG,450,261,Antananarivo,MGA,Malagasy ariary,Ar,.mg,Africa,Eastern Africa,Madagasikara,-20,47,🇲🇬,U+1F1F2 U+1F1EC,+03:00
+131,Malawi,MWI,MW,454,265,Lilongwe,MWK,Malawian kwacha,MK,.mw,Africa,Eastern Africa,Malawi,-13.5,34,🇲🇼,U+1F1F2 U+1F1FC,+02:00
+132,Malaysia,MYS,MY,458,60,Kuala Lumpur,MYR,Malaysian ringgit,RM,.my,Asia,South-Eastern Asia,Malaysia,2.5,112.5,🇲🇾,U+1F1F2 U+1F1FE,+08:00
+133,Maldives,MDV,MV,462,960,Male,MVR,Maldivian rufiyaa,Rf,.mv,Asia,Southern Asia,Maldives,3.25,73,🇲🇻,U+1F1F2 U+1F1FB,+05:00
+134,Mali,MLI,ML,466,223,Bamako,XOF,West African CFA franc,CFA,.ml,Africa,Western Africa,Mali,17,-4,🇲🇱,U+1F1F2 U+1F1F1,
+135,Malta,MLT,MT,470,356,Valletta,EUR,Euro,€,.mt,Europe,Southern Europe,Malta,35.83333333,14.58333333,🇲🇹,U+1F1F2 U+1F1F9,+01:00
+136,Man (Isle of),IMN,IM,833,+44-1624,"Douglas, Isle of Man",GBP,British pound,£,.im,Europe,Northern Europe,Isle of Man,54.25,-4.5,🇮🇲,U+1F1EE U+1F1F2,
+137,Marshall Islands,MHL,MH,584,692,Majuro,USD,United States dollar,$,.mh,Oceania,Micronesia,M̧ajeļ,9,168,🇲🇭,U+1F1F2 U+1F1ED,+12:00
+138,Martinique,MTQ,MQ,474,596,Fort-de-France,EUR,Euro,€,.mq,Americas,Caribbean,Martinique,14.666667,-61,🇲🇶,U+1F1F2 U+1F1F6,-04:00
+139,Mauritania,MRT,MR,478,222,Nouakchott,MRO,Mauritanian ouguiya,MRU,.mr,Africa,Western Africa,موريتانيا,20,-12,🇲🇷,U+1F1F2 U+1F1F7,
+140,Mauritius,MUS,MU,480,230,Port Louis,MUR,Mauritian rupee,₨,.mu,Africa,Eastern Africa,Maurice,-20.28333333,57.55,🇲🇺,U+1F1F2 U+1F1FA,+04:00
+141,Mayotte,MYT,YT,175,262,Mamoudzou,EUR,Euro,€,.yt,Africa,Eastern Africa,Mayotte,-12.83333333,45.16666666,🇾🇹,U+1F1FE U+1F1F9,+03:00
+142,Mexico,MEX,MX,484,52,Ciudad de México,MXN,Mexican peso,$,.mx,Americas,Central America,México,23,-102,🇲🇽,U+1F1F2 U+1F1FD,-06:00
+143,Micronesia,FSM,FM,583,691,Palikir,USD,United States dollar,$,.fm,Oceania,Micronesia,Micronesia,6.91666666,158.25,🇫🇲,U+1F1EB U+1F1F2,+10:00
+144,Moldova,MDA,MD,498,373,Chisinau,MDL,Moldovan leu,L,.md,Europe,Eastern Europe,Moldova,47,29,🇲🇩,U+1F1F2 U+1F1E9,+02:00
+145,Monaco,MCO,MC,492,377,Monaco,EUR,Euro,€,.mc,Europe,Western Europe,Monaco,43.73333333,7.4,🇲🇨,U+1F1F2 U+1F1E8,+01:00
+146,Mongolia,MNG,MN,496,976,Ulan Bator,MNT,Mongolian tögrög,₮,.mn,Asia,Eastern Asia,Монгол улс,46,105,🇲🇳,U+1F1F2 U+1F1F3,+08:00
+147,Montenegro,MNE,ME,499,382,Podgorica,EUR,Euro,€,.me,Europe,Southern Europe,Црна Гора,42.5,19.3,🇲🇪,U+1F1F2 U+1F1EA,+01:00
+148,Montserrat,MSR,MS,500,+1-664,Plymouth,XCD,Eastern Caribbean dollar,$,.ms,Americas,Caribbean,Montserrat,16.75,-62.2,🇲🇸,U+1F1F2 U+1F1F8,-04:00
+149,Morocco,MAR,MA,504,212,Rabat,MAD,Moroccan dirham,DH,.ma,Africa,Northern Africa,المغرب,32,-5,🇲🇦,U+1F1F2 U+1F1E6,+01:00
+150,Mozambique,MOZ,MZ,508,258,Maputo,MZN,Mozambican metical,MT,.mz,Africa,Eastern Africa,Moçambique,-18.25,35,🇲🇿,U+1F1F2 U+1F1FF,+02:00
+151,Myanmar,MMR,MM,104,95,Nay Pyi Taw,MMK,Burmese kyat,K,.mm,Asia,South-Eastern Asia,မြန်မာ,22,98,🇲🇲,U+1F1F2 U+1F1F2,+06:30
+152,Namibia,NAM,NA,516,264,Windhoek,NAD,Namibian dollar,$,.na,Africa,Southern Africa,Namibia,-22,17,🇳🇦,U+1F1F3 U+1F1E6,+02:00
+153,Nauru,NRU,NR,520,674,Yaren,AUD,Australian dollar,$,.nr,Oceania,Micronesia,Nauru,-0.53333333,166.91666666,🇳🇷,U+1F1F3 U+1F1F7,+12:00
+154,Nepal,NPL,NP,524,977,Kathmandu,NPR,Nepalese rupee,₨,.np,Asia,Southern Asia,नपल,28,84,🇳🇵,U+1F1F3 U+1F1F5,+05:45
+156,Netherlands,NLD,NL,528,31,Amsterdam,EUR,Euro,€,.nl,Europe,Western Europe,Nederland,52.5,5.75,🇳🇱,U+1F1F3 U+1F1F1,+01:00
+157,New Caledonia,NCL,NC,540,687,Noumea,XPF,CFP franc,₣,.nc,Oceania,Melanesia,Nouvelle-Calédonie,-21.5,165.5,🇳🇨,U+1F1F3 U+1F1E8,+11:00
+158,New Zealand,NZL,NZ,554,64,Wellington,NZD,New Zealand dollar,$,.nz,Oceania,Australia and New Zealand,New Zealand,-41,174,🇳🇿,U+1F1F3 U+1F1FF,+13:00
+159,Nicaragua,NIC,NI,558,505,Managua,NIO,Nicaraguan córdoba,C$,.ni,Americas,Central America,Nicaragua,13,-85,🇳🇮,U+1F1F3 U+1F1EE,-06:00
+160,Niger,NER,NE,562,227,Niamey,XOF,West African CFA franc,CFA,.ne,Africa,Western Africa,Niger,16,8,🇳🇪,U+1F1F3 U+1F1EA,+01:00
+161,Nigeria,NGA,NG,566,234,Abuja,NGN,Nigerian naira,₦,.ng,Africa,Western Africa,Nigeria,10,8,🇳🇬,U+1F1F3 U+1F1EC,+01:00
+162,Niue,NIU,NU,570,683,Alofi,NZD,New Zealand dollar,$,.nu,Oceania,Polynesia,Niuē,-19.03333333,-169.86666666,🇳🇺,U+1F1F3 U+1F1FA,-11:00
+163,Norfolk Island,NFK,NF,574,672,Kingston,AUD,Australian dollar,$,.nf,Oceania,Australia and New Zealand,Norfolk Island,-29.03333333,167.95,🇳🇫,U+1F1F3 U+1F1EB,+12:00
+115,North Korea,PRK,KP,408,850,Pyongyang,KPW,North Korean Won,₩,.kp,Asia,Eastern Asia,북한,40,127,🇰🇵,U+1F1F0 U+1F1F5,+09:00
+164,Northern Mariana Islands,MNP,MP,580,+1-670,Saipan,USD,United States dollar,$,.mp,Oceania,Micronesia,Northern Mariana Islands,15.2,145.75,🇲🇵,U+1F1F2 U+1F1F5,+10:00
+165,Norway,NOR,NO,578,47,Oslo,NOK,Norwegian krone,kr,.no,Europe,Northern Europe,Norge,62,10,🇳🇴,U+1F1F3 U+1F1F4,+01:00
+166,Oman,OMN,OM,512,968,Muscat,OMR,Omani rial,.ع.ر,.om,Asia,Western Asia,عمان,21,57,🇴🇲,U+1F1F4 U+1F1F2,+04:00
+167,Pakistan,PAK,PK,586,92,Islamabad,PKR,Pakistani rupee,₨,.pk,Asia,Southern Asia,Pakistan,30,70,🇵🇰,U+1F1F5 U+1F1F0,+05:00
+168,Palau,PLW,PW,585,680,Melekeok,USD,United States dollar,$,.pw,Oceania,Micronesia,Palau,7.5,134.5,🇵🇼,U+1F1F5 U+1F1FC,+09:00
+169,Palestinian Territory Occupied,PSE,PS,275,970,East Jerusalem,ILS,Israeli new shekel,₪,.ps,Asia,Western Asia,فلسطين,31.9,35.2,🇵🇸,U+1F1F5 U+1F1F8,+02:00
+170,Panama,PAN,PA,591,507,Panama City,PAB,Panamanian balboa,B/.,.pa,Americas,Central America,Panamá,9,-80,🇵🇦,U+1F1F5 U+1F1E6,-05:00
+171,Papua new Guinea,PNG,PG,598,675,Port Moresby,PGK,Papua New Guinean kina,K,.pg,Oceania,Melanesia,Papua Niugini,-6,147,🇵🇬,U+1F1F5 U+1F1EC,+11:00
+172,Paraguay,PRY,PY,600,595,Asuncion,PYG,Paraguayan guarani,₲,.py,Americas,South America,Paraguay,-23,-58,🇵🇾,U+1F1F5 U+1F1FE,-03:00
+173,Peru,PER,PE,604,51,Lima,PEN,Peruvian sol,S/.,.pe,Americas,South America,Perú,-10,-76,🇵🇪,U+1F1F5 U+1F1EA,-05:00
+174,Philippines,PHL,PH,608,63,Manila,PHP,Philippine peso,₱,.ph,Asia,South-Eastern Asia,Pilipinas,13,122,🇵🇭,U+1F1F5 U+1F1ED,+08:00
+175,Pitcairn Island,PCN,PN,612,870,Adamstown,NZD,New Zealand dollar,$,.pn,Oceania,Polynesia,Pitcairn Islands,-25.06666666,-130.1,🇵🇳,U+1F1F5 U+1F1F3,-08:00
+176,Poland,POL,PL,616,48,Warsaw,PLN,Polish złoty,zł,.pl,Europe,Eastern Europe,Polska,52,20,🇵🇱,U+1F1F5 U+1F1F1,+01:00
+177,Portugal,PRT,PT,620,351,Lisbon,EUR,Euro,€,.pt,Europe,Southern Europe,Portugal,39.5,-8,🇵🇹,U+1F1F5 U+1F1F9,-01:00
+178,Puerto Rico,PRI,PR,630,+1-787 and 1-939,San Juan,USD,United States dollar,$,.pr,Americas,Caribbean,Puerto Rico,18.25,-66.5,🇵🇷,U+1F1F5 U+1F1F7,-04:00
+179,Qatar,QAT,QA,634,974,Doha,QAR,Qatari riyal,ق.ر,.qa,Asia,Western Asia,قطر,25.5,51.25,🇶🇦,U+1F1F6 U+1F1E6,+03:00
+180,Reunion,REU,RE,638,262,Saint-Denis,EUR,Euro,€,.re,Africa,Eastern Africa,La Réunion,-21.15,55.5,🇷🇪,U+1F1F7 U+1F1EA,+04:00
+181,Romania,ROU,RO,642,40,Bucharest,RON,Romanian leu,lei,.ro,Europe,Eastern Europe,România,46,25,🇷🇴,U+1F1F7 U+1F1F4,+02:00
+182,Russia,RUS,RU,643,7,Moscow,RUB,Russian ruble,₽,.ru,Europe,Eastern Europe,Россия,60,100,🇷🇺,U+1F1F7 U+1F1FA,+12:00
+183,Rwanda,RWA,RW,646,250,Kigali,RWF,Rwandan franc,FRw,.rw,Africa,Eastern Africa,Rwanda,-2,30,🇷🇼,U+1F1F7 U+1F1FC,+02:00
+184,Saint Helena,SHN,SH,654,290,Jamestown,SHP,Saint Helena pound,£,.sh,Africa,Western Africa,Saint Helena,-15.95,-5.7,🇸🇭,U+1F1F8 U+1F1ED,
+185,Saint Kitts And Nevis,KNA,KN,659,+1-869,Basseterre,XCD,Eastern Caribbean dollar,$,.kn,Americas,Caribbean,Saint Kitts and Nevis,17.33333333,-62.75,🇰🇳,U+1F1F0 U+1F1F3,-04:00
+186,Saint Lucia,LCA,LC,662,+1-758,Castries,XCD,Eastern Caribbean dollar,$,.lc,Americas,Caribbean,Saint Lucia,13.88333333,-60.96666666,🇱🇨,U+1F1F1 U+1F1E8,-04:00
+187,Saint Pierre and Miquelon,SPM,PM,666,508,Saint-Pierre,EUR,Euro,€,.pm,Americas,Northern America,Saint-Pierre-et-Miquelon,46.83333333,-56.33333333,🇵🇲,U+1F1F5 U+1F1F2,-03:00
+188,Saint Vincent And The Grenadines,VCT,VC,670,+1-784,Kingstown,XCD,Eastern Caribbean dollar,$,.vc,Americas,Caribbean,Saint Vincent and the Grenadines,13.25,-61.2,🇻🇨,U+1F1FB U+1F1E8,-04:00
+189,Saint-Barthelemy,BLM,BL,652,590,Gustavia,EUR,Euro,€,.bl,Americas,Caribbean,Saint-Barthélemy,18.5,-63.41666666,🇧🇱,U+1F1E7 U+1F1F1,-04:00
+190,Saint-Martin (French part),MAF,MF,663,590,Marigot,EUR,Euro,€,.mf,Americas,Caribbean,Saint-Martin,18.08333333,-63.95,🇲🇫,U+1F1F2 U+1F1EB,-04:00
+191,Samoa,WSM,WS,882,685,Apia,WST,Samoan tālā,SAT,.ws,Oceania,Polynesia,Samoa,-13.58333333,-172.33333333,🇼🇸,U+1F1FC U+1F1F8,+14:00
+192,San Marino,SMR,SM,674,378,San Marino,EUR,Euro,€,.sm,Europe,Southern Europe,San Marino,43.76666666,12.41666666,🇸🇲,U+1F1F8 U+1F1F2,+01:00
+193,Sao Tome and Principe,STP,ST,678,239,Sao Tome,STD,Dobra,Db,.st,Africa,Middle Africa,São Tomé e Príncipe,1,7,🇸🇹,U+1F1F8 U+1F1F9,
+194,Saudi Arabia,SAU,SA,682,966,Riyadh,SAR,Saudi riyal,﷼,.sa,Asia,Western Asia,المملكة العربية السعودية,25,45,🇸🇦,U+1F1F8 U+1F1E6,+03:00
+195,Senegal,SEN,SN,686,221,Dakar,XOF,West African CFA franc,CFA,.sn,Africa,Western Africa,Sénégal,14,-14,🇸🇳,U+1F1F8 U+1F1F3,
+196,Serbia,SRB,RS,688,381,Belgrade,RSD,Serbian dinar,din,.rs,Europe,Southern Europe,Србија,44,21,🇷🇸,U+1F1F7 U+1F1F8,+01:00
+197,Seychelles,SYC,SC,690,248,Victoria,SCR,Seychellois rupee,SRe,.sc,Africa,Eastern Africa,Seychelles,-4.58333333,55.66666666,🇸🇨,U+1F1F8 U+1F1E8,+04:00
+198,Sierra Leone,SLE,SL,694,232,Freetown,SLL,Sierra Leonean leone,Le,.sl,Africa,Western Africa,Sierra Leone,8.5,-11.5,🇸🇱,U+1F1F8 U+1F1F1,
+199,Singapore,SGP,SG,702,65,Singapur,SGD,Singapore dollar,$,.sg,Asia,South-Eastern Asia,Singapore,1.36666666,103.8,🇸🇬,U+1F1F8 U+1F1EC,+08:00
+250,Sint Maarten (Dutch part),SXM,SX,534,1721,Philipsburg,ANG,Netherlands Antillean guilder,ƒ,.sx,Americas,Caribbean,Sint Maarten,18.033333,-63.05,🇸🇽,U+1F1F8 U+1F1FD,-04:00
+200,Slovakia,SVK,SK,703,421,Bratislava,EUR,Euro,€,.sk,Europe,Eastern Europe,Slovensko,48.66666666,19.5,🇸🇰,U+1F1F8 U+1F1F0,+01:00
+201,Slovenia,SVN,SI,705,386,Ljubljana,EUR,Euro,€,.si,Europe,Southern Europe,Slovenija,46.11666666,14.81666666,🇸🇮,U+1F1F8 U+1F1EE,+01:00
+202,Solomon Islands,SLB,SB,90,677,Honiara,SBD,Solomon Islands dollar,Si$,.sb,Oceania,Melanesia,Solomon Islands,-8,159,🇸🇧,U+1F1F8 U+1F1E7,+11:00
+203,Somalia,SOM,SO,706,252,Mogadishu,SOS,Somali shilling,Sh.so.,.so,Africa,Eastern Africa,Soomaaliya,10,49,🇸🇴,U+1F1F8 U+1F1F4,+03:00
+204,South Africa,ZAF,ZA,710,27,Pretoria,ZAR,South African rand,R,.za,Africa,Southern Africa,South Africa,-29,24,🇿🇦,U+1F1FF U+1F1E6,+02:00
+205,South Georgia,SGS,GS,239,500,Grytviken,GBP,British pound,£,.gs,Americas,South America,South Georgia,-54.5,-37,🇬🇸,U+1F1EC U+1F1F8,-02:00
+116,South Korea,KOR,KR,410,82,Seoul,KRW,Won,₩,.kr,Asia,Eastern Asia,대한민국,37,127.5,🇰🇷,U+1F1F0 U+1F1F7,+09:00
+206,South Sudan,SSD,SS,728,211,Juba,SSP,South Sudanese pound,£,.ss,Africa,Middle Africa,South Sudan,7,30,🇸🇸,U+1F1F8 U+1F1F8,+03:00
+207,Spain,ESP,ES,724,34,Madrid,EUR,Euro,€,.es,Europe,Southern Europe,España,40,-4,🇪🇸,U+1F1EA U+1F1F8,+01:00
+208,Sri Lanka,LKA,LK,144,94,Colombo,LKR,Sri Lankan rupee,Rs,.lk,Asia,Southern Asia,śrī laṃkāva,7,81,🇱🇰,U+1F1F1 U+1F1F0,+05:30
+209,Sudan,SDN,SD,729,249,Khartoum,SDG,Sudanese pound,.س.ج,.sd,Africa,Northern Africa,السودان,15,30,🇸🇩,U+1F1F8 U+1F1E9,+02:00
+210,Suriname,SUR,SR,740,597,Paramaribo,SRD,Surinamese dollar,$,.sr,Americas,South America,Suriname,4,-56,🇸🇷,U+1F1F8 U+1F1F7,-03:00
+211,Svalbard And Jan Mayen Islands,SJM,SJ,744,47,Longyearbyen,NOK,Norwegian Krone,kr,.sj,Europe,Northern Europe,Svalbard og Jan Mayen,78,20,🇸🇯,U+1F1F8 U+1F1EF,+01:00
+212,Swaziland,SWZ,SZ,748,268,Mbabane,SZL,Lilangeni,E,.sz,Africa,Southern Africa,Swaziland,-26.5,31.5,🇸🇿,U+1F1F8 U+1F1FF,+02:00
+213,Sweden,SWE,SE,752,46,Stockholm,SEK,Swedish krona,kr,.se,Europe,Northern Europe,Sverige,62,15,🇸🇪,U+1F1F8 U+1F1EA,+01:00
+214,Switzerland,CHE,CH,756,41,Bern,CHF,Swiss franc,CHf,.ch,Europe,Western Europe,Schweiz,47,8,🇨🇭,U+1F1E8 U+1F1ED,+01:00
+215,Syria,SYR,SY,760,963,Damascus,SYP,Syrian pound,LS,.sy,Asia,Western Asia,سوريا,35,38,🇸🇾,U+1F1F8 U+1F1FE,+02:00
+216,Taiwan,TWN,TW,158,886,Taipei,TWD,New Taiwan dollar,$,.tw,Asia,Eastern Asia,臺灣,23.5,121,🇹🇼,U+1F1F9 U+1F1FC,+08:00
+217,Tajikistan,TJK,TJ,762,992,Dushanbe,TJS,Tajikistani somoni,SM,.tj,Asia,Central Asia,Тоҷикистон,39,71,🇹🇯,U+1F1F9 U+1F1EF,+05:00
+218,Tanzania,TZA,TZ,834,255,Dodoma,TZS,Tanzanian shilling,TSh,.tz,Africa,Eastern Africa,Tanzania,-6,35,🇹🇿,U+1F1F9 U+1F1FF,+03:00
+219,Thailand,THA,TH,764,66,Bangkok,THB,Thai baht,฿,.th,Asia,South-Eastern Asia,ประเทศไทย,15,100,🇹🇭,U+1F1F9 U+1F1ED,+07:00
+17,The Bahamas,BHS,BS,44,+1-242,Nassau,BSD,Bahamian dollar,B$,.bs,Americas,Caribbean,Bahamas,24.25,-76,🇧🇸,U+1F1E7 U+1F1F8,-05:00
+220,Togo,TGO,TG,768,228,Lome,XOF,West African CFA franc,CFA,.tg,Africa,Western Africa,Togo,8,1.16666666,🇹🇬,U+1F1F9 U+1F1EC,
+221,Tokelau,TKL,TK,772,690,,NZD,New Zealand dollar,$,.tk,Oceania,Polynesia,Tokelau,-9,-172,🇹🇰,U+1F1F9 U+1F1F0,+13:00
+222,Tonga,TON,TO,776,676,Nuku'alofa,TOP,Tongan paʻanga,$,.to,Oceania,Polynesia,Tonga,-20,-175,🇹🇴,U+1F1F9 U+1F1F4,+13:00
+223,Trinidad And Tobago,TTO,TT,780,+1-868,Port of Spain,TTD,Trinidad and Tobago dollar,$,.tt,Americas,Caribbean,Trinidad and Tobago,11,-61,🇹🇹,U+1F1F9 U+1F1F9,-04:00
+224,Tunisia,TUN,TN,788,216,Tunis,TND,Tunisian dinar,ت.د,.tn,Africa,Northern Africa,تونس,34,9,🇹🇳,U+1F1F9 U+1F1F3,+01:00
+225,Turkey,TUR,TR,792,90,Ankara,TRY,Turkish lira,₺,.tr,Asia,Western Asia,Türkiye,39,35,🇹🇷,U+1F1F9 U+1F1F7,+03:00
+226,Turkmenistan,TKM,TM,795,993,Ashgabat,TMT,Turkmenistan manat,T,.tm,Asia,Central Asia,Türkmenistan,40,60,🇹🇲,U+1F1F9 U+1F1F2,+05:00
+227,Turks And Caicos Islands,TCA,TC,796,+1-649,Cockburn Town,USD,United States dollar,$,.tc,Americas,Caribbean,Turks and Caicos Islands,21.75,-71.58333333,🇹🇨,U+1F1F9 U+1F1E8,-05:00
+228,Tuvalu,TUV,TV,798,688,Funafuti,AUD,Australian dollar,$,.tv,Oceania,Polynesia,Tuvalu,-8,178,🇹🇻,U+1F1F9 U+1F1FB,+12:00
+229,Uganda,UGA,UG,800,256,Kampala,UGX,Ugandan shilling,USh,.ug,Africa,Eastern Africa,Uganda,1,32,🇺🇬,U+1F1FA U+1F1EC,+03:00
+230,Ukraine,UKR,UA,804,380,Kiev,UAH,Ukrainian hryvnia,₴,.ua,Europe,Eastern Europe,Україна,49,32,🇺🇦,U+1F1FA U+1F1E6,+02:00
+231,United Arab Emirates,ARE,AE,784,971,Abu Dhabi,AED,United Arab Emirates dirham,إ.د,.ae,Asia,Western Asia,دولة الإمارات العربية المتحدة,24,54,🇦🇪,U+1F1E6 U+1F1EA,+04:00
+232,United Kingdom,GBR,GB,826,44,London,GBP,British pound,£,.uk,Europe,Northern Europe,United Kingdom,54,-2,🇬🇧,U+1F1EC U+1F1E7,
+233,United States,USA,US,840,1,Washington,USD,United States dollar,$,.us,Americas,Northern America,United States,38,-97,🇺🇸,U+1F1FA U+1F1F8,-10:00
+234,United States Minor Outlying Islands,UMI,UM,581,1,,USD,United States dollar,$,.us,Americas,Northern America,United States Minor Outlying Islands,0,0,🇺🇲,U+1F1FA U+1F1F2,-11:00
+235,Uruguay,URY,UY,858,598,Montevideo,UYU,Uruguayan peso,$,.uy,Americas,South America,Uruguay,-33,-56,🇺🇾,U+1F1FA U+1F1FE,-03:00
+236,Uzbekistan,UZB,UZ,860,998,Tashkent,UZS,Uzbekistani soʻm,лв,.uz,Asia,Central Asia,O‘zbekiston,41,64,🇺🇿,U+1F1FA U+1F1FF,+05:00
+237,Vanuatu,VUT,VU,548,678,Port Vila,VUV,Vanuatu vatu,VT,.vu,Oceania,Melanesia,Vanuatu,-16,167,🇻🇺,U+1F1FB U+1F1FA,+11:00
+238,Vatican City State (Holy See),VAT,VA,336,379,Vatican City,EUR,Euro,€,.va,Europe,Southern Europe,Vaticano,41.9,12.45,🇻🇦,U+1F1FB U+1F1E6,+01:00
+239,Venezuela,VEN,VE,862,58,Caracas,VEF,Bolívar,Bs,.ve,Americas,South America,Venezuela,8,-66,🇻🇪,U+1F1FB U+1F1EA,-04:00
+240,Vietnam,VNM,VN,704,84,Hanoi,VND,Vietnamese đồng,₫,.vn,Asia,South-Eastern Asia,Việt Nam,16.16666666,107.83333333,🇻🇳,U+1F1FB U+1F1F3,+07:00
+241,Virgin Islands (British),VGB,VG,92,+1-284,Road Town,USD,United States dollar,$,.vg,Americas,Caribbean,British Virgin Islands,18.431383,-64.62305,🇻🇬,U+1F1FB U+1F1EC,-04:00
+242,Virgin Islands (US),VIR,VI,850,+1-340,Charlotte Amalie,USD,United States dollar,$,.vi,Americas,Caribbean,United States Virgin Islands,18.34,-64.93,🇻🇮,U+1F1FB U+1F1EE,-04:00
+243,Wallis And Futuna Islands,WLF,WF,876,681,Mata Utu,XPF,CFP franc,₣,.wf,Oceania,Polynesia,Wallis et Futuna,-13.3,-176.2,🇼🇫,U+1F1FC U+1F1EB,+12:00
+244,Western Sahara,ESH,EH,732,212,El-Aaiun,MAD,Moroccan Dirham,MAD,.eh,Africa,Northern Africa,الصحراء الغربية,24.5,-13,🇪🇭,U+1F1EA U+1F1ED,+01:00
+245,Yemen,YEM,YE,887,967,Sanaa,YER,Yemeni rial,﷼,.ye,Asia,Western Asia,اليَمَن,15,48,🇾🇪,U+1F1FE U+1F1EA,+03:00
+246,Zambia,ZMB,ZM,894,260,Lusaka,ZMW,Zambian kwacha,ZK,.zm,Africa,Eastern Africa,Zambia,-15,30,🇿🇲,U+1F1FF U+1F1F2,+02:00
+247,Zimbabwe,ZWE,ZW,716,263,Harare,ZWL,Zimbabwe Dollar,$,.zw,Africa,Eastern Africa,Zimbabwe,-20,30,🇿🇼,U+1F1FF U+1F1FC,+02:00
