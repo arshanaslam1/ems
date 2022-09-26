@@ -10,14 +10,14 @@ class RegionFactory(factory.django.DjangoModelFactory):
     class Meta:
         model = Region
 
-    name = factory.Sequence(lambda n: "region %d" % n)
+    name = factory.Sequence(lambda n: f"region {n}")
 
 
 class SubRegionFactory(factory.django.DjangoModelFactory):
     class Meta:
         model = SubRegion
 
-    name = factory.Sequence(lambda n: "subregion %d" % n)
+    name = factory.Sequence(lambda n: f"subregion {n}")
     region = factory.SubFactory(RegionFactory)
 
 

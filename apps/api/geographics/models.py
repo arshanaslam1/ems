@@ -6,7 +6,7 @@ class Region(TimeStampedModel):
     name = models.CharField(unique=True, null=True, blank=True, max_length=255)
 
     def __str__(self):
-        return self.name
+        return f"{self.name}"
 
 
 class SubRegion(TimeStampedModel):
@@ -20,7 +20,7 @@ class SubRegion(TimeStampedModel):
     )
 
     def __str__(self):
-        return self.name
+        return f"{self.name}"
 
     class Meta:
         unique_together = (
@@ -59,7 +59,7 @@ class Country(TimeStampedModel):
     native = models.CharField(max_length=50, null=True, blank=True)
 
     def __str__(self):
-        return self.name
+        return f"{self.name}"
 
     class Meta:
         unique_together = (
@@ -83,7 +83,7 @@ class State(TimeStampedModel):
     state_code = models.CharField(max_length=10, null=True, blank=True)
 
     def __str__(self):
-        return self.name
+        return f"{self.name}"
 
     class Meta:
         unique_together = (
@@ -111,4 +111,4 @@ class City(TimeStampedModel):
     name = models.CharField(max_length=255)
 
     def __str__(self):
-        return self.name
+        return f"{self.name}"

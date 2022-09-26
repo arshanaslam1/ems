@@ -166,15 +166,15 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         """take file path and call task cvs to save data"""
         start_t = timezone.now()
-        with open(file_path + file_name[0]) as csv_file:
+        with open(file_path + file_name[0], encoding="utf-8") as csv_file:
             consume_seconds = country_csv_data_save(csv_file)
         self.stdout.write(self.style.SUCCESS(consume_seconds))
 
-        with open(file_path + file_name[1]) as csv_file:
+        with open(file_path + file_name[1], encoding="utf-8") as csv_file:
             consume_seconds = state_csv_data_save(csv_file)
         self.stdout.write(self.style.SUCCESS(consume_seconds))
 
-        with open(file_path + file_name[2]) as csv_file:
+        with open(file_path + file_name[2], encoding="utf-8") as csv_file:
             consume_seconds = city_csv_data_save(csv_file)
         self.stdout.write(self.style.SUCCESS(consume_seconds))
 

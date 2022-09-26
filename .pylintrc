@@ -1,6 +1,6 @@
 [MASTER]
-load-plugins=pylint_django, pylint_celery
-django-settings-module=config.settings.local
+load-plugins=pylint_celery, pylint_django
+ignore=migrations
 [FORMAT]
 max-line-length=120
 
